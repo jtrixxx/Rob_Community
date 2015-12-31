@@ -17,6 +17,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+#use gem Liberary for authentication
+gem 'devise', '~> 3.5.3'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
